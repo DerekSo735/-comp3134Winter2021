@@ -1,0 +1,16 @@
+IPv4 address for www.georgebrown.ca
+Domain Name Server IP: 99.79.139.11
+
+IPv4 address for www.instagram.com
+Domain Name Server IP: 157.240.14.174
+
+IPv4 address for www.hotmail.com
+Domain Name Server IP: 204.79.197.212
+
+IPv4 address for www.whatismyip.com
+Domain Name Server IP: 104.27.194.88
+
+Domain Name Server IP: 104.27.195.88
+
+Domain Name: ontario.ca
+IP Address: 54.208.81.96
