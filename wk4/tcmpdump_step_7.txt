@@ -1,0 +1,12 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+00:46:44.810353 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 2034738406:2034738450, ack 374290560, win 2258, length 44
+00:46:44.810470 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 44:152, ack 1, win 2258, length 108
+00:46:44.810551 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 152:188, ack 1, win 2258, length 36
+00:46:44.825287 IP cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317 > 165.227.42.214.ssh: Flags [.], ack 188, win 4137, length 0
+00:46:45.593474 IP 075-136-226-212.res.spectrum.com.59932 > 165.227.42.214.5555: Flags [S], seq 180775662, win 65535, options [mss 1460,sackOK,TS val 440533632 ecr 0,nop,wscale 6], length 0
+00:46:47.585424 IP 075-136-226-212.res.spectrum.com.59932 > 165.227.42.214.5555: Flags [S], seq 180775662, win 65535, options [mss 1460,sackOK,TS val 440533832 ecr 0,nop,wscale 6], length 0
+00:46:48.343430 IP 125.140.173.167.39188 > 165.227.42.214.5555: Flags [S], seq 754816953, win 65535, options [mss 1460,sackOK,TS val 488661929 ecr 0,nop,wscale 6], length 0
+00:46:49.362015 IP 125.140.173.167.39188 > 165.227.42.214.5555: Flags [S], seq 754816953, win 65535, options [mss 1460,sackOK,TS val 488662184 ecr 0,nop,wscale 6], length 0
+00:46:49.371674 IP 209.141.40.103.42185 > 165.227.42.214.http-alt: Flags [S], seq 14807375, win 65535, options [mss 536], length 0
+00:46:59.026957 IP 113.22.210.104.22305 > 165.227.42.214.2323: Flags [S], seq 2783128278, win 31241, length 0

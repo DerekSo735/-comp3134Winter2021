@@ -1,0 +1,10 @@
+00:39:05.935160 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 6063464:6063668, ack 3565, win 501, length 204
+00:39:05.935252 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 6063668:6063872, ack 3565, win 501, length 204
+00:39:05.935334 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 6063872:6064076, ack 3565, win 501, length 204
+00:39:05.935415 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 6064076:6064280, ack 3565, win 501, length 204
+00:39:05.935503 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 6064280:6064484, ack 3565, win 501, length 204
+00:39:05.935593 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 6064484:6064688, ack 3565, win 501, length 204
+00:39:05.935681 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 6064688:6064892, ack 3565, win 501, length 204
+00:39:05.935763 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 6064892:6065096, ack 3565, win 501, length 204
+00:39:05.935852 IP 165.227.42.214.ssh > cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317: Flags [P.], seq 6065096:6065300, ack 3565, win 501, length 204
+00:39:05.935909 IP cpef85e424c507d-cmf85e424c507b.cpe.net.cable.rogers.com.50317 > 165.227.42.214.ssh: Flags [P.], seq 3565:3601, ack 6021044, win 4140, length 36
